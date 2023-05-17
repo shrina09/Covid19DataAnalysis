@@ -35,4 +35,4 @@ python graphing_mental_health_cases.py graphing_file.csv IDs.pdf
 
 ## Author Information
 Your name: Shrina<br />
-Email: shrina@uoguelph.ca
+Email: shrinapatel359@gmail.com
