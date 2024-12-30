@@ -34,5 +34,5 @@ python graphing_mental_health_cases.py graphing_file.csv IDs.pdf
 ```
 
 ## Author Information
-Your name: Shrina<br />
+Your name: Shrina Patel<br />
 Email: shrinapatel359@gmail.com
